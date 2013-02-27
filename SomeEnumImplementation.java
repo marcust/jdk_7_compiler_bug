@@ -1,0 +1,4 @@
+enum SomeEnumImplementation implements SomeInterface {
+
+}
+
